@@ -12,3 +12,5 @@ This project contains a Bash script for monitoring Linux servers.
 
 ## Project Status
 Version 1.0 - Initial release
+
+Maintained by Khong
