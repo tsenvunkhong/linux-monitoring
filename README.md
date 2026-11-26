@@ -19,6 +19,6 @@ Maintained by Khong
 - Email alerts
 - Automated backup monitoring
 - Service monitoring
-- CPU usage alers
+- CPU monitoring enabled
 
 Project maintained using Git and GitHub.
