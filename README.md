@@ -14,3 +14,9 @@ This project contains a Bash script for monitoring Linux servers.
 Version 1.0 - Initial release
 
 Maintained by Khong
+
+## Future Improvements
+- Email alerts
+- Automated backup monitoring
+- Service monitoring
+- CPU usage alers
