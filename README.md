@@ -20,3 +20,5 @@ Maintained by Khong
 - Automated backup monitoring
 - Service monitoring
 - CPU usage alers
+
+Project maintained using Git and GitHub.
